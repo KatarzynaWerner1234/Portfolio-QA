@@ -10,5 +10,5 @@ A project aimed at testing the basic functionalities and digital accessibility a
 A project aimed at testing the basic functionalities and digital accessibility aspects of https://www.wakacje.pl/. Test scenarios were prepared using the 'step -> expected result' pattern.
 <li><a href="https://docs.google.com/document/d/1IcP6gw0pxMm9wm1cP2DwVKd0bDklAGmkIIURI6Qg1uY/edit?tab=t.0" target="_blank">Test plan</a></li>
 <li><a href="https://docs.google.com/document/d/19lrnNFNSq-lAbPas3FkhxHCHvn5OvxP04iOi8cunNQ8/edit?tab=t.0" target="_blank">Test cases</li>
-<li>Bugs report</li>
+<li><a href="https://docs.google.com/document/d/19QKJeCYFLwh_kDCMHW1NzRV1afmchQFewc8nlEkD3qk/edit?tab=t.0">Bugs report</a>a></li>
 <li><a href="https://docs.google.com/document/d/19QKJeCYFLwh_kDCMHW1NzRV1afmchQFewc8nlEkD3qk/edit?tab=t.0" target="_blank">Test report</a></li>
