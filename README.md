@@ -1,3 +1,7 @@
+# NBP API testing project
+A project aimed at testing basic functionalties of the Narodowy Bank Polski API with Postman.
+<li><a href="https://www.postman.com/mission-geoscientist-42602364/nbp-api-testing/documentation/jxak7nn/npb-api-testing">Collection in Postman</a></li>
+
 # Zalando testing project
 A project aimed at testing the basic functionalities and digital accessibility aspects of https://www.zalando.pl/. Test scenarios were prepared using Gherkin syntax.
 <li><a href="https://docs.google.com/document/d/1z7cWUEtAVSGxO-nqw0GXgy000PapoFHlWTkZmIuCfQw/edit?usp=sharing" target="_blank">Test plan</a></li>
