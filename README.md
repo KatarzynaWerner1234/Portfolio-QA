@@ -2,7 +2,7 @@
 A project aimed at testing basic functionalties of the Narodowy Bank Polski API with Postman.
 <li><a href="https://www.postman.com/mission-geoscientist-42602364/nbp-api-testing/documentation/jxak7nn/npb-api-testing">Collection in Postman</a></li>
 <li><a href="https://www.postman.com/mission-geoscientist-42602364/nbp-api-testing/request/d1annig/current-gold-price">Requesting current gold price</a></li>
-<li><a href="https://www.postman.com/mission-geoscientist-42602364/nbp-api-testing/request/2npy4on/today-s-exchangerates">Requesting today's exchangerates</a></li>
+<li><a href="https://www.postman.com/mission-geoscientist-42602364/nbp-api-testing/request/2npy4on/today-s-exchangerates">Requesting today's exchange rates</a></li>
 <li><a href="https://www.postman.com/mission-geoscientist-42602364/nbp-api-testing/request/uc2aiv0/requesting-gold-price-for-date-in-the-future">Checking if requesting gold price from a future date will throw an error</a></li>
 <li><a href="https://www.postman.com/mission-geoscientist-42602364/nbp-api-testing/request/51gqu55/requesting-too-many-gold-price-rates">Checking if requesting to many rates will throw an error</a></li>
 <li><a href="https://www.postman.com/mission-geoscientist-42602364/nbp-api-testing/request/3ity7ft/requesting-current-exchange-rates-table-a?tab=overview">Checking if NBP is still not providing exchange rates for rubel.</a></li>
